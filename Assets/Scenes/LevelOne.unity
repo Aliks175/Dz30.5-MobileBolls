@@ -3007,11 +3007,6 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Box
       objectReference: {fileID: 0}
-    - target: {fileID: 6346588547389596554, guid: 5c72a76a613c0964191aeb3f1787d6e4,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6724435393703679647, guid: 5c72a76a613c0964191aeb3f1787d6e4,
         type: 3}
       propertyPath: m_TagString
