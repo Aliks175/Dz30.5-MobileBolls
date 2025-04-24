@@ -35,7 +35,7 @@ RenderSettings:
   m_DefaultReflectionMode: 0
   m_DefaultReflectionResolution: 128
   m_ReflectionBounces: 1
-  m_ReflectionIntensity: 1
+  m_ReflectionIntensity: 0.501
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1788494327}
   m_UseRadianceAmbientProbe: 0
@@ -279,78 +279,25 @@ LightProbeGroup:
   m_GameObject: {fileID: 221679860}
   m_Enabled: 1
   m_SourcePositions:
-  - {x: 12.268374, y: 2.4556253, z: -5.4500914}
-  - {x: 12.268374, y: 2.4556253, z: -7.4500914}
-  - {x: 12.268374, y: -1, z: -5.4500914}
-  - {x: 12.268374, y: -1, z: -7.4500914}
-  - {x: 10.268375, y: 2.4556253, z: -5.4500914}
-  - {x: 10.268375, y: 2.4556253, z: -7.4500914}
-  - {x: 10.268375, y: -1, z: -5.4500914}
-  - {x: 10.268375, y: -1, z: -7.4500914}
-  - {x: 12.268374, y: 2.4556253, z: 6.7842655}
-  - {x: 12.268374, y: 2.4556253, z: 4.7842655}
-  - {x: 12.268374, y: -1, z: 6.7842655}
-  - {x: 12.268374, y: -1, z: 4.7842655}
+  - {x: 10.268375, y: 2.4556253, z: -6.1579323}
+  - {x: 10.268375, y: -0.7405462, z: -5.4500914}
   - {x: 10.268375, y: 2.4556253, z: 6.7842655}
-  - {x: 10.268375, y: 2.4556253, z: 4.7842655}
-  - {x: 10.268375, y: -1, z: 6.7842655}
-  - {x: 10.268375, y: -1, z: 4.7842655}
-  - {x: 12.268374, y: 2.4556253, z: 1}
-  - {x: 12.268374, y: 2.4556253, z: -1}
-  - {x: 12.268374, y: -1, z: 1}
-  - {x: 12.268374, y: -1, z: -1}
-  - {x: 10.268375, y: 2.4556253, z: 1}
+  - {x: 10.268375, y: -0.7405462, z: 4.7842655}
+  - {x: 6.564885, y: 2.4556253, z: 0.00615263}
   - {x: 10.268375, y: 2.4556253, z: -1}
-  - {x: 10.268375, y: -1, z: 1}
-  - {x: 10.268375, y: -1, z: -1}
-  - {x: 1, y: 2.4556253, z: -5.4500914}
-  - {x: 1, y: 2.4556253, z: -7.4500914}
-  - {x: 1, y: -1, z: -5.4500914}
-  - {x: 1, y: -1, z: -7.4500914}
-  - {x: -1, y: 2.4556253, z: -5.4500914}
-  - {x: -1, y: 2.4556253, z: -7.4500914}
-  - {x: -1, y: -1, z: -5.4500914}
-  - {x: -1, y: -1, z: -7.4500914}
-  - {x: 1, y: 2.4556253, z: 6.7842655}
-  - {x: 1, y: 2.4556253, z: 4.7842655}
-  - {x: 1, y: -1, z: 6.7842655}
-  - {x: 1, y: -1, z: 4.7842655}
-  - {x: -1, y: 2.4556253, z: 6.7842655}
-  - {x: -1, y: 2.4556253, z: 4.7842655}
-  - {x: -1, y: -1, z: 6.7842655}
-  - {x: -1, y: -1, z: 4.7842655}
+  - {x: 10.268375, y: -0.7405462, z: 1}
   - {x: 1, y: 2.4556253, z: 1}
   - {x: 1, y: 2.4556253, z: -1}
-  - {x: 1, y: -1, z: 1}
-  - {x: 1, y: -1, z: -1}
-  - {x: -1, y: 2.4556253, z: 1}
-  - {x: -1, y: 2.4556253, z: -1}
-  - {x: -1, y: -1, z: 1}
-  - {x: -1, y: -1, z: -1}
-  - {x: 5.5076065, y: 2.4556253, z: -5.4500914}
-  - {x: 5.5076065, y: 2.4556253, z: -7.4500914}
-  - {x: 5.5076065, y: -1, z: -5.4500914}
-  - {x: 5.5076065, y: -1, z: -7.4500914}
-  - {x: 3.5076065, y: 2.4556253, z: -5.4500914}
-  - {x: 3.5076065, y: 2.4556253, z: -7.4500914}
-  - {x: 3.5076065, y: -1, z: -5.4500914}
-  - {x: 3.5076065, y: -1, z: -7.4500914}
-  - {x: 5.5076065, y: 2.4556253, z: 6.7842655}
-  - {x: 5.5076065, y: 2.4556253, z: 4.7842655}
-  - {x: 5.5076065, y: -1, z: 6.7842655}
-  - {x: 5.5076065, y: -1, z: 4.7842655}
+  - {x: 1, y: -0.7405462, z: 1}
+  - {x: 5.5076065, y: -0.7405462, z: -5.4500914}
+  - {x: 5.5076065, y: -0.7405462, z: 4.7842655}
   - {x: 3.5076065, y: 2.4556253, z: 6.7842655}
-  - {x: 3.5076065, y: 2.4556253, z: 4.7842655}
-  - {x: 3.5076065, y: -1, z: 6.7842655}
-  - {x: 3.5076065, y: -1, z: 4.7842655}
-  - {x: 5.5076065, y: 2.4556253, z: 1}
-  - {x: 5.5076065, y: 2.4556253, z: -1}
-  - {x: 5.5076065, y: -1, z: 1}
-  - {x: 5.5076065, y: -1, z: -1}
+  - {x: 6.835159, y: 2.4556253, z: 4.7842655}
+  - {x: 3.5076065, y: -0.7405462, z: 4.7842655}
+  - {x: 5.5076065, y: -0.7405462, z: 1}
+  - {x: 5.5076065, y: -0.7405462, z: -1}
   - {x: 3.5076065, y: 2.4556253, z: 1}
-  - {x: 3.5076065, y: 2.4556253, z: -1}
-  - {x: 3.5076065, y: -1, z: 1}
-  - {x: 3.5076065, y: -1, z: -1}
+  - {x: 3.5076065, y: -0.7405462, z: 1}
   m_Dering: 1
 --- !u!4 &221679862
 Transform:
@@ -1450,7 +1397,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 3.1e-44, z: 4.29e-42, w: 0}
+  m_BoundingSphereOverride: {x: 1.02e-43, y: 2.13e-43, z: 5.085e-42, w: -1.2356179e-37}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -2982,6 +2929,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Box
       objectReference: {fileID: 0}
+    - target: {fileID: 5309522869826505278, guid: 5c72a76a613c0964191aeb3f1787d6e4,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5322313567710400484, guid: 5c72a76a613c0964191aeb3f1787d6e4,
         type: 3}
       propertyPath: m_TagString
@@ -3001,6 +2953,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: Box
+      objectReference: {fileID: 0}
+    - target: {fileID: 6346588547389596554, guid: 5c72a76a613c0964191aeb3f1787d6e4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6724435393703679647, guid: 5c72a76a613c0964191aeb3f1787d6e4,
         type: 3}
@@ -3400,6 +3357,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Plane
       objectReference: {fileID: 0}
+    - target: {fileID: 1297944565393360912, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1672025664118940590, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3448,6 +3410,11 @@ PrefabInstance:
     - target: {fileID: 1672025664118940590, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7120219576101912093, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
