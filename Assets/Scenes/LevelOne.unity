@@ -35,7 +35,7 @@ RenderSettings:
   m_DefaultReflectionMode: 0
   m_DefaultReflectionResolution: 128
   m_ReflectionBounces: 1
-  m_ReflectionIntensity: 1
+  m_ReflectionIntensity: 0.501
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1788494327}
   m_UseRadianceAmbientProbe: 0
@@ -1450,7 +1450,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 3.1e-44, z: 4.29e-42, w: 0}
+  m_BoundingSphereOverride: {x: 1.02e-43, y: 2.13e-43, z: 5.085e-42, w: -1.2356179e-37}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -2982,6 +2982,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Box
       objectReference: {fileID: 0}
+    - target: {fileID: 5309522869826505278, guid: 5c72a76a613c0964191aeb3f1787d6e4,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5322313567710400484, guid: 5c72a76a613c0964191aeb3f1787d6e4,
         type: 3}
       propertyPath: m_TagString
@@ -3400,6 +3405,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Plane
       objectReference: {fileID: 0}
+    - target: {fileID: 1297944565393360912, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1672025664118940590, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3448,6 +3458,11 @@ PrefabInstance:
     - target: {fileID: 1672025664118940590, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7120219576101912093, guid: 57ff4af82d1ddf04b8821d243b0a7a51,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
